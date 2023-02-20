@@ -275,7 +275,6 @@ Resources:
               - iam:PassRole
               - sts:AssumeRole
               - lambda:UpdateFunctionConfiguration
-              - lambda:GetFunctionConfiguration
               - lambda:DeleteFunction
               - lambda:GetFunction
               - lambda:InvokeFunction
